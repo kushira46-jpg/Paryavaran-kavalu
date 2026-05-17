@@ -1,0 +1,17 @@
+# Android Studio / Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# API Keys — NEVER commit your real key
+# Replace YOUR_GOOGLE_MAPS_API_KEY_HERE in AndroidManifest.xml
+# Consider using local.properties or secrets-gradle-plugin for production
+
+# Generated assets
+app/src/main/res/mipmap-*
